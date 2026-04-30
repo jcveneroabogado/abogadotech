@@ -1,0 +1,26 @@
+Proyec Name
+abogadotech
+
+Passqord:
+Wid@23-@8-1984
+
+Project URL
+https://hpbjuemaezohsqqimqov.supabase.co
+
+Publishable key
+sb_publishable_YvPyHJvRS-nCROWhDoO4vw_BYvq5M0p
+
+Direct connection string 
+postgresql://postgres:Wid@23-@8-1984@db.hpbjuemaezohsqqimqov.supabase.co:5432/postgres
+
+CLI setup commands
+supabase login
+supabase init
+supabase link --project-ref hpbjuemaezohsqqimqov
+
+Project ID
+hpbjuemaezohsqqimqov
+
+------------------
+
+86941d0b-6c75-4d19-a162-539b429c20a8
